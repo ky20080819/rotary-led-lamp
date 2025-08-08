@@ -11,8 +11,8 @@ Back
 
 Lighted up
 ![image](https://github.com/ky20080819/rotary-led-lamp/blob/5b57fe5828a13a807ced615b7e747d7e0f0c99cb/image/DSC_1616.JPG)
----WARNING---
+##WARNING
 I do not have permission from the artists to use the images. If requested, I will delete it immediately. This is not for commercial use.
 
----SPECIAL THANKS---
+##SPECIAL THANKS
 Thanks to my MOM, without her (finantial) support, I cannot reach such achievement. 
