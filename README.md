@@ -14,5 +14,5 @@ Lighted up
 ## WARNING
 I do not have permission from the artists to use the images. If requested, I will delete it immediately. This is not for commercial use.
 
-## SPECIAL THANKS
+## SPECIAL THANKS❤️
 Thanks to my MOM, without her (finantial) support, I cannot reach such achievement. 
