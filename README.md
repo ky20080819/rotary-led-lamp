@@ -1,4 +1,4 @@
-# Rotary-led-lamp
+# 💡 Rotary-led-lamp
 This project is a birthday gift for my friend.
 <br>
 As a high school student, this is the most complex project I’ve ever completed.
