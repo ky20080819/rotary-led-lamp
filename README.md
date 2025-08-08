@@ -16,7 +16,7 @@ Lit up
 
 ## ⚠️ Disclaimer
 I do not have permission from the artists to use the images.
-If requested, I will remove them immediately.
+If requested, I will remove them immediately.<br>
 This project is not for commercial use.
 
 ## ❤️ SPECIAL THANKS
