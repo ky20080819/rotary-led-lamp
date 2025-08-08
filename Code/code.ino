@@ -32,7 +32,7 @@ const byte START_ANIMATION[][8] = {// 右移一格，排列與下面相同
     } // 正確的圖形
 };
 
-const byte HAPPY_BIRTHDAY[][8] = { // 幫我每個字改小一格，以及下面的程式碼我要以跑馬燈將"HAPPY BIRTHDAY"由右至左跑過去
+const byte HAPPY_BIRTHDAY[][8] = {
     // H
     {B01000010, B01000010, B01111110, B01000010, B01000010, B01000010, B00000000, B00000000},
     // A
