@@ -2,6 +2,7 @@
 This project is a birthday gift for my friend.
 <br>
 As a high school student, this is the most complex project I’ve ever completed.
+<br>
 I believe this represents the limit of what I’m currently capable of achieving.
 
 Front
