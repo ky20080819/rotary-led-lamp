@@ -1,4 +1,4 @@
-# 💡 Rotary-led-lamp
+## 💡 Rotary-led-lamp
 This project is a birthday gift for my friend.
 <br>
 As a high school student, this is the most complex project I’ve ever completed.
@@ -14,7 +14,7 @@ Back
 Lit up
 ![image](https://github.com/ky20080819/rotary-led-lamp/blob/5b57fe5828a13a807ced615b7e747d7e0f0c99cb/image/DSC_1616.JPG)
 
-# ⚠️ Disclaimer
+### ⚠️ Disclaimer
 I do not have permission from the artists to use the images.
 If requested, I will remove them immediately.<br>
 This project is not for commercial use.
